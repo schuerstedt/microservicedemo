@@ -16,3 +16,5 @@ Installation auf K8S steht noch aus: https://medium.com/@manabie/self-hosting-un
 https://github.com/Unleash/helm-charts
 
 
+nun im code-server
+
