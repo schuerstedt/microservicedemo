@@ -1,0 +1,33 @@
+[2022-08-31T10:13:19.958Z] info  code-server 4.6.0 6d3f9ca6a6df30a1bfad6f073f6fa33c0e63abdb
+[2022-08-31T10:13:19.959Z] info  Using user-data-dir ~/data
+[2022-08-31T10:13:19.978Z] info  Using config file ~/.config/code-server/config.yaml
+[2022-08-31T10:13:19.978Z] info  HTTP server listening on http://0.0.0.0:8443/ 
+[2022-08-31T10:13:19.979Z] info    - Authentication is enabled
+[2022-08-31T10:13:19.979Z] info      - Using password from $PASSWORD
+[2022-08-31T10:13:19.979Z] info    - Not serving HTTPS 
+[2022-08-31T10:13:19.979Z] info    - Proxying the following domain:
+[2022-08-31T10:13:19.980Z] info      - *.code-server.my.domain
+[12:13:43] Extension host agent started.
+[12:13:48] [172.20.0.1][8ba3af9c][ManagementConnection] New connection established.
+[12:13:49] [172.20.0.1][a34fe0f5][ExtensionHostConnection] New connection established.
+[12:13:49] [172.20.0.1][a34fe0f5][ExtensionHostConnection] <220> Launched Extension Host Process.
+[2022-08-31T10:16:21.026Z] info  code-server 4.6.0 6d3f9ca6a6df30a1bfad6f073f6fa33c0e63abdb
+[2022-08-31T10:16:21.027Z] info  Using user-data-dir ~/data
+[2022-08-31T10:16:21.046Z] info  Using config file ~/.config/code-server/config.yaml
+[2022-08-31T10:16:21.046Z] info  HTTP server listening on http://0.0.0.0:8443/ 
+[2022-08-31T10:16:21.046Z] info    - Authentication is enabled
+[2022-08-31T10:16:21.046Z] info      - Using password from $PASSWORD
+[2022-08-31T10:16:21.046Z] info    - Not serving HTTPS 
+[2022-08-31T10:16:21.046Z] info    - Proxying the following domain:
+[2022-08-31T10:16:21.046Z] info      - *.code-server.my.domain
+[12:16:24] Extension host agent started.
+[12:16:27] [172.20.0.1][14842c0e][ManagementConnection] New connection established.
+[12:16:28] [172.20.0.1][6a9e311d][ExtensionHostConnection] New connection established.
+[12:16:29] [172.20.0.1][6a9e311d][ExtensionHostConnection] <241> Launched Extension Host Process.
+[13:42:39] [172.20.0.1][b5c905ea][ManagementConnection] New connection established.
+[13:42:41] [172.20.0.1][f26ea544][ExtensionHostConnection] New connection established.
+[13:42:41] [172.20.0.1][f26ea544][ExtensionHostConnection] <355> Launched Extension Host Process.
+[13:42:42] [172.20.0.1][14842c0e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 30 chars and 1 size events
+[13:47:39] [172.20.0.1][6a9e311d][ExtensionHostConnection] <241> Extension Host Process exited with code: 0, signal: null.

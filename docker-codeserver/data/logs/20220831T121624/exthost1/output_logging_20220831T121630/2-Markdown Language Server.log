@@ -1,0 +1,3 @@
+[Debug 10:28:44.652] TableOfContentsProvider: create - file:///config/workspace/test.md
+[Debug 10:28:44.655] LinkProvider: compute - file:///config/workspace/test.md
+[Debug 10:28:46.146] MdFoldingProvider: provideFoldingRanges - file:///config/workspace/test.md

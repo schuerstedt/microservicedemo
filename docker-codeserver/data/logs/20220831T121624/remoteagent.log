@@ -1,0 +1,18 @@
+[2022-08-31 12:16:24.917] [remoteagent] [info] 
+
+
+
+
+[2022-08-31 12:16:24.994] [remoteagent] [info] Extension host agent started.
+[2022-08-31 12:16:25.232] [remoteagent] [error] [172.20.0.1][8ba3af9c][ManagementConnection] Unknown reconnection token (never seen).
+[2022-08-31 12:16:27.311] [remoteagent] [info] [172.20.0.1][14842c0e][ManagementConnection] New connection established.
+[2022-08-31 12:16:28.926] [remoteagent] [info] [172.20.0.1][6a9e311d][ExtensionHostConnection] New connection established.
+[2022-08-31 12:16:29.055] [remoteagent] [info] [172.20.0.1][6a9e311d][ExtensionHostConnection] <241> Launched Extension Host Process.
+[2022-08-31 13:42:39.277] [remoteagent] [info] [172.20.0.1][b5c905ea][ManagementConnection] New connection established.
+[2022-08-31 13:42:41.130] [remoteagent] [info] [172.20.0.1][f26ea544][ExtensionHostConnection] New connection established.
+[2022-08-31 13:42:41.231] [remoteagent] [info] [172.20.0.1][f26ea544][ExtensionHostConnection] <355> Launched Extension Host Process.
+[2022-08-31 13:42:42.721] [remoteagent] [info] [172.20.0.1][14842c0e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-08-31 13:42:42.735] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/app/code-server/lib/vscode/out/vs/server/node/server.main.js:148:7922)
+    at process.emit (node:events:539:35)
+[2022-08-31 13:47:39.590] [remoteagent] [info] [172.20.0.1][6a9e311d][ExtensionHostConnection] <241> Extension Host Process exited with code: 0, signal: null.

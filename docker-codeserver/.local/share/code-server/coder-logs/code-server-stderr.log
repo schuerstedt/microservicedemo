@@ -1,0 +1,14 @@
+[12:13:48] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot find module '../build/Release/keytar.node'
+Require stack:
+- /app/code-server/lib/vscode/node_modules/keytar/lib/keytar.js
+- /app/code-server/lib/vscode/out/bootstrap-amd.js
+- /app/code-server/out/node/util.js
+- /app/code-server/out/node/cli.js
+- /app/code-server/out/node/entry.js
+[12:16:25] [172.20.0.1][8ba3af9c][ManagementConnection] Unknown reconnection token (never seen).
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/app/code-server/lib/vscode/out/bootstrap.js:1:407)
+    at process.emit (node:events:539:35)
+[13:42:42] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/app/code-server/lib/vscode/out/vs/server/node/server.main.js:148:7922)
+    at process.emit (node:events:539:35)
